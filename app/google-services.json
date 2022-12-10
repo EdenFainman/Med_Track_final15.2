@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787144835580",
+    "project_id": "med-track-final",
+    "storage_bucket": "med-track-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787144835580:android:760fe04b239d155dadf279",
+        "android_client_info": {
+          "package_name": "com.edentomer.med_track_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787144835580-im5f6nd03tihvaf2qbphqb9kh21qj06g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBp0r3S1vbHj7Cq6SOqDGkT6_pU-xPQss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787144835580-im5f6nd03tihvaf2qbphqb9kh21qj06g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
